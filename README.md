@@ -1,1 +1,2 @@
-# my-first-project
+# Hello World
+Ini commit pertama saya di GitHub!
